@@ -1,0 +1,6 @@
+{
+  "name": "ymonet-v1",
+  "description": "Global Live Streaming Platform - V1. Dark, premium, safe, and clean with anti-fake systems and owner controls.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
